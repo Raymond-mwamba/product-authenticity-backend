@@ -1,0 +1,5 @@
+# Expo
+FRONTEND/.expo/
+FRONTEND/.expo-shared/
+.expo/
+node_modules/
